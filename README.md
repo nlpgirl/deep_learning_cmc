@@ -1,2 +1,2 @@
 # deep_learning_cmc
-Deep learning course
+Курс по глубокому обучению на факультете ВМК МГУ, 4 курс
